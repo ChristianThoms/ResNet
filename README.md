@@ -20,3 +20,4 @@ Possible Tasks:
 * a list with medical dataset challenges: https://grand-challenge.org/challenges/
 * from above: https://www.kaggle.com/c/histopathologic-cancer-detection/kernels
 * from above: https://stanfordmlgroup.github.io/competitions/mura/
+* https://github.com/sfikas/medical-imaging-datasets
