@@ -2,6 +2,7 @@
 
 ## Resources:
 * Original ResNet paper: https://arxiv.org/abs/1512.03385
+* follow-up paper: https://arxiv.org/pdf/1603.05027.pdf
 * Slides: https://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf
 * Great Medium article: https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624
 * another article: https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
