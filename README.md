@@ -15,3 +15,7 @@ Not sure if useful:
 * https://arxiv.org/abs/1611.10080
 * https://arxiv.org/abs/1611.01186
 * https://arxiv.org/abs/1711.04325
+
+Possible Tasks:
+* a list with medical dataset challenges: https://grand-challenge.org/challenges/
+* from above : https://www.kaggle.com/c/histopathologic-cancer-detection/kernels
