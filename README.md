@@ -21,3 +21,24 @@ Possible Tasks:
 * from above: https://www.kaggle.com/c/histopathologic-cancer-detection/kernels
 * from above: https://stanfordmlgroup.github.io/competitions/mura/
 * https://github.com/sfikas/medical-imaging-datasets
+
+
+
+## Outline (preliminary)
+
+### Abstract
+
+### Introduction
+
+### Motivation / Problem Definition 
+* e.g. more layers != better , degradation problem
+* deeper = harder optimization
+* more neurons per layer = exponential param growth
+
+###  Solution: ResNet
+* What it is
+* Intuition
+* How it works
+* How good it works / Test cases/ Studies
+
+### Recent Variants / Interpretations
