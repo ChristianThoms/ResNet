@@ -1,5 +1,9 @@
 # ResNet
 
+Open in colab:
+https://colab.research.google.com/github/ChristianThoms/ResNet
+
+
 ## Resources:
 * Original ResNet paper: https://arxiv.org/abs/1512.03385
 * follow-up paper: https://arxiv.org/pdf/1603.05027.pdf
