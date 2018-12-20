@@ -1,7 +1,6 @@
 # ResNet
 
-Clone this repo into colab using 
-`!git clone https://github.com/ChristianThoms/ResNet.git`
+https://colab.research.google.com/github/ChristianThoms/ResNet/master/cifar_10_resnet.ipynb
 
 
 ## Resources:
