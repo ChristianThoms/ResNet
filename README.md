@@ -1,6 +1,7 @@
 # ResNet
 
-https://colab.research.google.com/github/ChristianThoms/ResNet/blob/master/cifar_10_resnet.ipynb
+Open in colab:
+https://colab.research.google.com/github/ChristianThoms/ResNet
 
 
 ## Resources:
